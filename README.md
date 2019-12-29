@@ -4,7 +4,7 @@ Project for school in Processing (Java based IDE)
 ![Alt text](grafoviPic.JPG?raw=true "Title")
 
 It has to be used in specific manner.
-Equations have to be formatted correctly.  
+Functions have to be formatted correctly.  
 
 s - sign => (<, >, <=, >=)  
 Formats:  
